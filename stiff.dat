@@ -1,0 +1,6 @@
+#1 Dummy stiff data set 
+r	    		m	    	  x_cg		y_cg	ri_x		    ri_y	       x_sh 	y_sh	E		        G        		I_x	        	I_y     		I_p		       k_x 	   k_y  		A		pitch	  x_e	  y_e
+$1	 2  dummy stiff data; 
+0.0		1.00E-3		0		0		1.36E+00		1.36E+00		0		0		2.10E+17		8.08E+16		5.52E01		5.52E01		1.10E+00		0.5		0.5		1.98E01		0		0		0
+1.0		1.00E-3		0		0		1.36E+00		1.36E+00		0		0		2.10E+17		8.08E+16		5.52E01		5.52E01		1.10E+00		0.5		0.5		1.98E01		0		0		0
+
